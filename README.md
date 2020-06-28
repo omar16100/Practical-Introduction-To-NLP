@@ -4,8 +4,6 @@
 
 [Google Slides Link](https://docs.google.com/presentation/d/1Lf3YSLBCYsDt5X8UoTr4Lm7dVO_BVqZTGsRJo1QnzfQ/edit?usp=sharing)
 
-[On Github]()
-
 ## Demo : Sentiment Analysis
 
 [Kaggle Link](https://www.kaggle.com/omar16100/twitter-sentiment-analysis/)
